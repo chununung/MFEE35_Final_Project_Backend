@@ -1,6 +1,6 @@
 ### MFEE35_Final_Project_Backend
 網站目的為 提供紀錄使用者身體攝取熱量、以及販售健康食品
-
+此後端程式碼皆為夥伴撰寫，本人僅負責部分前端頁面
 使用方法:
 
 clone branch => 77update
