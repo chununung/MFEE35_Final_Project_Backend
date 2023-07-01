@@ -1,6 +1,8 @@
 ### MFEE35_Final_Project_Backend
 網站目的為 提供紀錄使用者身體攝取熱量、以及販售健康食品
 
+使用方法:
+
 clone branch => 77update
 
 cd MFEE35_Final_Project_Backend/server
